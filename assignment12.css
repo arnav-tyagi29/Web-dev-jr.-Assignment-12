@@ -1,0 +1,41 @@
+h1{
+    color:#4a0634;
+    text-shadow: 0 0 20px #fefcc9,
+                     10px -10px 30px #feec85,
+                     -20px -20px 40px #ffae34,
+                     20px -30px 35px #ec760c,
+                     -20px -40px 40px #cd4606,
+                     0 -50px 65px #973716,
+                     10px -70px 70px #451b0e;
+                     font-weight: 900;
+    
+
+}
+
+    
+      
+  
+    
+    
+
+body{
+    background-color: black;
+    background-image: url(https://privat.rejbrand.se/lorenz50_GIMPed.gif);
+}
+h2{
+    color:#de0b39;
+    text-decoration:underline line-through
+}
+p{
+    color:cyan
+}
+.two{
+    font-size: 30px;
+    color:#75de0b
+}
+.three{
+    color:#de980b
+}
+.four{
+    color:#f27492
+}
